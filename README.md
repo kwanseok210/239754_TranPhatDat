@@ -38,5 +38,5 @@ Sẽ cập nhật sau khi hoàn thành phần backend và frontend.
 - Docker Hub Backend:  https://hub.docker.com/r/kwanseok210/backend
 - Docker Hub Frontend: https://hub.docker.com/r/kwanseok210/frontend
 - Render App: https://frontend-latest-zhhz.onrender.com
-- Render API:  https://backend-latest-65ji.onrender.com
+- Render API:  https://backend-latest-65ji.onrender.com/api/employees?utm_source=chatgpt.com
 - MongoDB Atlas: https://backend-latest-65ji.onrender.com/api/employees?utm_source=chatgpt.com
