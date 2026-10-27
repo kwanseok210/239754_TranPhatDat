@@ -37,6 +37,6 @@ Sẽ cập nhật sau khi hoàn thành phần backend và frontend.
 - GitHub Repository: https://github.com/kwanseok210/239754_TranPhatDat
 - Docker Hub Backend:  https://hub.docker.com/r/kwanseok210/backend
 - Docker Hub Frontend: https://hub.docker.com/r/kwanseok210/frontend
-- Render App: Sẽ cập nhật
+- Render App: https://frontend-latest-zhhz.onrender.com
 - Render API:  https://backend-latest-65ji.onrender.com
 - MongoDB Atlas: Sẽ cập nhật
